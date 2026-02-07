@@ -7,6 +7,7 @@ public class Test1 {
         ArrayList<String>list = new ArrayList<>();
         list.add("Apple");
         list.add("Orange");
+        list.add("Guava");
     }
     
 }
