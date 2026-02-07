@@ -8,6 +8,7 @@ public class Test1 {
         list.add("Apple");
         list.add("Orange");
         list.add("Guava");
+        System.out.println(list);
     }
     
 }
