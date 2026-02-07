@@ -5,4 +5,5 @@ public class Practice{
         System.out.println("Age is : " + age);
         System.out.println("Name is : " + name);
     }
+
 }
