@@ -4,3 +4,8 @@ public class Test2 {
     int add = a+b;
     
 }
+public static void main(String arg[]){
+    
+
+
+}
