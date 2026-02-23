@@ -9,6 +9,7 @@ public class Test1 {
         list.add("Orange");
         list.add("Guava");
         list.add("Lemon");
+        list.add("Santra");
         System.out.println(list);
     }
     
